@@ -1,0 +1,42 @@
+@use "../../styles/utility";
+@use "../../styles/tokens";
+
+.hero-section {
+  @extend .flex-v-centered;
+  margin: 1rem 0;
+
+  .hero-text {
+    @extend .flex-v-centered;
+    margin: 0.5rem 10%;
+
+    .hero-text--title {
+      font-size: 3rem;
+      font-weight: 500;
+      line-height: 3.5rem;
+      margin: 2rem 0;
+    }
+
+    .hero-text--content {
+      font-size: 1.1rem;
+      text-align: justify;
+      text-align: center;
+      margin: 0 10%;
+      margin-bottom: 1rem;
+    }
+
+    .hero-text--cta {
+      button {
+        padding: 1rem 3.5rem;
+        margin: 1rem 0;
+        border: 0px;
+        border-radius: 50px;
+        background-color: tokens.$primary;
+        color: tokens.$secondary;
+        text-transform: uppercase;
+        font-weight: 500;
+        font-size: 0.9rem;
+        letter-spacing: 1px;
+      }
+    }
+  }
+}
