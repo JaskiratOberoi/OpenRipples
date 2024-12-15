@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af954c05.css",
+    "main.js": "/static/js/main.a2d9cf8e.js",
+    "static/media/JP Morgan Chase Logo 1.svg": "/static/media/JP Morgan Chase Logo 1.4978f6ee1f712e166ae3a63ff670c446.svg",
+    "static/media/hero-image.svg": "/static/media/hero-image.43a7d19c4bf31e02f20d49ea4df73fad.svg",
+    "static/media/Dell Logo.svg": "/static/media/Dell Logo.335b08d583357d2de398712078bb88eb.svg",
+    "static/media/OpenRipples.svg": "/static/media/OpenRipples.fcf0345b24bf75197c4fa2a450c99cb3.svg",
+    "static/media/amazon long.svg": "/static/media/amazon long.d61de2864e3ca7e6def537283132fec4.svg",
+    "static/media/ycombinator-ar21.svg": "/static/media/ycombinator-ar21.237b5c69421fdf3c213ab26a40489381.svg",
+    "index.html": "/index.html",
+    "static/media/ust-global-vector-logo-2022.svg": "/static/media/ust-global-vector-logo-2022.829ed68043f4eb26e95871e1f5a755f2.svg",
+    "main.af954c05.css.map": "/static/css/main.af954c05.css.map",
+    "main.a2d9cf8e.js.map": "/static/js/main.a2d9cf8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af954c05.css",
+    "static/js/main.a2d9cf8e.js"
+  ]
+}

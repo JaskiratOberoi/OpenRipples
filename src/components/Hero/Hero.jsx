@@ -2,7 +2,12 @@ import React from "react";
 
 import "./hero.scss";
 
-// import heroImage from "../../asset/hero-image.svg";
+import heroImage from "../../assets/hero-image.svg";
+import amazon from "../../assets/amazon long.svg";
+import yComb from "../../assets/ycombinator-ar21.svg";
+import ust from "../../assets/ust-global-vector-logo-2022.svg";
+import jpmc from "../../assets/JP Morgan Chase Logo 1.svg";
+import dell from "../../assets/Dell Logo.svg";
 
 function Hero() {
   return (
@@ -20,7 +25,20 @@ function Hero() {
           <button>Schedule a Call</button>
         </div>
       </div>
-      <div className="hero-image">{/* <img src={heroImage} /> */}</div>
+      <div className="hero-image">
+        <img src={heroImage} alt="hero " />
+      </div>
+      <div className="hero-logos">
+        <img src={amazon} className="amazon" alt="client company " />
+        <img src={yComb} className="y-comb" alt="client company " />
+        <img src={ust} className="ust" alt="client company " />
+        <img src={jpmc} className="jpmc" alt="client company " />
+        <img src={dell} className="dell" alt="client company " />
+      </div>
+      <div className="hero-byline">
+        Experienced with Leading Companies and Initiatives in USA, Europe and
+        APAC.
+      </div>
     </div>
   );
 }
