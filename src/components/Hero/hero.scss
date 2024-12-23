@@ -8,21 +8,15 @@
 
   .hero-text {
     @extend .flex-v-centered;
-    margin: 0.5rem 25%;
-
-    .hero-text--title {
-      font-size: 3rem;
-      font-weight: 500;
-      line-height: 3.5rem;
-      margin: 2rem 0;
-    }
+    // margin: 0.5rem 25%;
 
     .hero-text--content {
       font-size: 1.1rem;
       font-weight: 400;
       text-align: justify;
       text-align: center;
-      margin: 0 10%;
+      // margin: 0 10%;
+      margin: 0.5rem 25%;
       margin-bottom: 1rem;
     }
 
@@ -58,7 +52,11 @@
     }
 
     img.ust {
-      width: 3rem;
+      width: 2.5rem;
+    }
+
+    img.jpmc {
+      width: 5rem;
     }
   }
 
@@ -66,5 +64,9 @@
     color: tokens.$subtext;
     margin: 1.5rem 35%;
     font-size: 1.2rem;
+  }
+
+  .hero-image {
+    padding: 1rem 0;
   }
 }

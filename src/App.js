@@ -1,5 +1,7 @@
 import Hero from "./components/Hero/Hero";
 import Navbar from "./components/Navbar/Navbar";
+import MarketComparison from "./Pages/MarketComparison";
+
 import "./styles/app.scss";
 
 function App() {
@@ -7,6 +9,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Hero />
+      <MarketComparison />
     </div>
   );
 }

@@ -1,0 +1,14 @@
+@use "../../styles/utility";
+@use "../../styles/tokens";
+
+.title-text {
+  @extend .flex-v-centered;
+  margin: 0.5rem 25%;
+
+  .text--title {
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 3.5rem;
+    margin: 2rem 0;
+  }
+}

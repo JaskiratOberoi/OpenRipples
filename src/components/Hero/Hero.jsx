@@ -1,6 +1,7 @@
 import React from "react";
 
 import "./hero.scss";
+import Title from "../Title/Title";
 
 import heroImage from "../../assets/hero-image.svg";
 import amazon from "../../assets/amazon long.svg";
@@ -13,9 +14,7 @@ function Hero() {
   return (
     <div className="hero-section">
       <div className="hero-text">
-        <div className="hero-text--title">
-          Your digital product, designed and built, without hiring a team.
-        </div>
+        <Title content="Your digital product, designed and built, without hiring a team." />
         <div className="hero-text--content">
           Building a digital product shouldn’t mean building a team. We offer
           tailored design and development services for web, desktop, and mobile,

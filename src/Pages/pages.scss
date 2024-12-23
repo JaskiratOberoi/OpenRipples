@@ -1,0 +1,52 @@
+@use "../styles/utility";
+@use "../styles/tokens";
+
+.mkt-cmp {
+  @extend .flex-v-centered;
+  img {
+    max-width: 50%;
+  }
+  //   div.title-text:nth-child(4) > div:nth-child(1) {
+  //     max-width: 70%;
+  //   }
+
+  .side-by-side {
+    margin-bottom: 2rem;
+  }
+}
+
+.mkt-grid {
+  max-width: 75%;
+  height: fit-content;
+}
+
+.adv-grid {
+  @extend .flex-centered;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50%;
+  gap: 3rem;
+  align-items: start;
+  margin: 5rem 0;
+
+  .grid-card {
+    @extend .flex-v;
+    width: 40%;
+    text-align: left;
+
+    img {
+      max-width: 30%;
+      padding: 1.5rem;
+      padding-left: 0;
+    }
+
+    .grid-card--title {
+      font-size: 1.7rem;
+      font-weight: 600;
+    }
+
+    .grid-card--content {
+      width: 70%;
+    }
+  }
+}
