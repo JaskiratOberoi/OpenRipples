@@ -50,3 +50,24 @@
     }
   }
 }
+
+.packages {
+  @extend .flex-v-centered;
+  padding: 1rem 0;
+  .packages-grid {
+    width: 70%;
+  }
+
+  .packages-content {
+    padding: 2rem 0;
+    margin: 0 20%;
+  }
+}
+
+.team {
+  margin: 2rem 0;
+
+  .team-members {
+    width: 70%;
+  }
+}
