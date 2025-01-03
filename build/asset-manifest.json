@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.d755a39b.css",
-    "main.js": "/static/js/main.4177a327.js",
-    "static/media/team.svg": "/static/media/team.92076046d748452644cf8035bf181dc4.svg",
+    "main.css": "/static/css/main.3a71f843.css",
+    "main.js": "/static/js/main.bd1c6ede.js",
     "static/media/packages.svg": "/static/media/packages.bee3a35b65454ff81c065d04a9a7a519.svg",
+    "static/media/team.svg": "/static/media/team.5418d0b176b5dfb08a7c70082194595f.svg",
     "static/media/market-comparison-card.svg": "/static/media/market-comparison-card.5177f25b2f76357e8f55cfe872ec6f1e.svg",
+    "static/media/team.gif": "/static/media/team.c867ce61f56123a7608a.gif",
+    "static/media/bank.gif": "/static/media/bank.7117bc462b327d27a9f7.gif",
+    "static/media/exit.gif": "/static/media/exit.a6702b5239d6747afefb.gif",
+    "static/media/meter.gif": "/static/media/meter.43bef35c1e37e1b62cf8.gif",
+    "static/media/how-it-works.svg": "/static/media/how-it-works.ba705ec639e424f3f0881de39274d2e7.svg",
     "static/media/sbs.svg": "/static/media/sbs.cd4fd99ef83f4ac5e4b0c4eed9f3512e.svg",
     "static/media/JP Morgan Chase Logo 1.svg": "/static/media/JP Morgan Chase Logo 1.4978f6ee1f712e166ae3a63ff670c446.svg",
     "static/media/hero-image.svg": "/static/media/hero-image.43a7d19c4bf31e02f20d49ea4df73fad.svg",
     "static/media/Dell Logo.svg": "/static/media/Dell Logo.335b08d583357d2de398712078bb88eb.svg",
-    "static/media/exit.svg": "/static/media/exit.e3e5268827b9abc58e9db0ab08fdec99.svg",
-    "static/media/piggy-bank.svg": "/static/media/piggy-bank.42d26ee013e7be2ce2520ecc370f0e6e.svg",
-    "static/media/meter.svg": "/static/media/meter.fc4cdbb8633826ff4f596330f25a3989.svg",
     "static/media/OpenRipples.svg": "/static/media/OpenRipples.fcf0345b24bf75197c4fa2a450c99cb3.svg",
     "static/media/amazon long.svg": "/static/media/amazon long.d61de2864e3ca7e6def537283132fec4.svg",
     "static/media/ycombinator-ar21.svg": "/static/media/ycombinator-ar21.237b5c69421fdf3c213ab26a40489381.svg",
     "index.html": "/index.html",
     "static/media/ust-global-vector-logo-2022.svg": "/static/media/ust-global-vector-logo-2022.829ed68043f4eb26e95871e1f5a755f2.svg",
-    "main.d755a39b.css.map": "/static/css/main.d755a39b.css.map",
-    "main.4177a327.js.map": "/static/js/main.4177a327.js.map"
+    "main.3a71f843.css.map": "/static/css/main.3a71f843.css.map",
+    "main.bd1c6ede.js.map": "/static/js/main.bd1c6ede.js.map"
   },
   "entrypoints": [
-    "static/css/main.d755a39b.css",
-    "static/js/main.4177a327.js"
+    "static/css/main.3a71f843.css",
+    "static/js/main.bd1c6ede.js"
   ]
 }

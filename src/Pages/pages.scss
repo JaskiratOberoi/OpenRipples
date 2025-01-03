@@ -71,3 +71,39 @@
     width: 70%;
   }
 }
+
+.szh-accordion__item {
+  @extend .flex-v-centered;
+  max-width: 70%;
+
+  .szh-accordion__item-btn {
+    width: 70vw;
+    border-radius: 5px;
+    padding: 1.2rem;
+    margin: 0.25rem 0;
+    text-align: left;
+    font-weight: 700;
+    border: 1px solid #bdbdbd;
+    background-color: #fff;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  .szh-accordion__item-content {
+    max-width: 70%;
+    text-align: center;
+    text-align: left;
+  }
+}
+
+.extended-footer {
+  .hiw-img {
+    max-width: 70%;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

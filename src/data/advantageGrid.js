@@ -1,7 +1,12 @@
-import meter from "../assets/GridCardAssets/meter.svg";
-import bank from "../assets/GridCardAssets/piggy-bank.svg";
-import team from "../assets/GridCardAssets/team.svg";
-import exit from "../assets/GridCardAssets/exit.svg";
+// import meter from "../assets/GridCardAssets/meter.svg";
+// import bank from "../assets/GridCardAssets/piggy-bank.svg";
+// import team from "../assets/GridCardAssets/team.svg";
+// import exit from "../assets/GridCardAssets/exit.svg";
+
+import meter from "../assets/GridCardAssets/meter.gif";
+import bank from "../assets/GridCardAssets/bank.gif";
+import team from "../assets/GridCardAssets/team.gif";
+import exit from "../assets/GridCardAssets/exit.gif";
 
 export const advGridContent = [
   {

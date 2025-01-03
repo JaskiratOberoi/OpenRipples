@@ -3,6 +3,9 @@ import Title from "../components/Title/Title";
 
 import team from "../assets/team.svg";
 
+import "./pages.scss";
+// import "../styles/accordion.scss";
+
 import { Accordion, AccordionItem } from "@szhsin/react-accordion";
 
 function Team() {
@@ -10,9 +13,9 @@ function Team() {
     <div className="team">
       <Title content="Meet the team" />
       <img src={team} alt="team members" className="team-members" />
-      {/* <Title content="Questions?" /> */}
+      <Title content="Questions?" />
 
-      {/* <Accordion>
+      <Accordion>
         <AccordionItem header="Can I pause or cancel anytime?">
           Of course, our contracts are available on a monthly tenure. You can
           cancel anytime within the current month, and your subscription won’t
@@ -44,7 +47,7 @@ function Team() {
           single product to be delivered with the need of any post delivery
           updates or maintenance.
         </AccordionItem>
-      </Accordion> */}
+      </Accordion>
     </div>
   );
 }

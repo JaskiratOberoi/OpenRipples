@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar/Navbar";
 import MarketComparison from "./Pages/MarketComparison";
 import Packages from "./Pages/Packages";
 import Team from "./Pages/Team";
+import ExtendedFooter from "./Pages/ExtendedFooter";
 
 import "./styles/app.scss";
 
@@ -14,6 +15,7 @@ function App() {
       <MarketComparison />
       <Packages />
       <Team />
+      <ExtendedFooter />
     </div>
   );
 }

@@ -11,6 +11,7 @@ import jpmc from "../../assets/JP Morgan Chase Logo 1.svg";
 import dell from "../../assets/Dell Logo.svg";
 
 function Hero() {
+  const url = "https://calendly.com/hi-openripples";
   return (
     <div className="hero-section">
       <div className="hero-text">
@@ -21,7 +22,9 @@ function Hero() {
           delivered on a monthly subscription for ultimate flexibility.
         </div>
         <div className="hero-text--cta">
-          <button>Schedule a Call</button>
+          <button onClick={() => window.open(url, "_blank")}>
+            Schedule a Call
+          </button>
         </div>
       </div>
       <div className="hero-image">
