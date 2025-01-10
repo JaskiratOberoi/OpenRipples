@@ -2,7 +2,7 @@ import React from "react";
 
 import GridCard from "./GridCard/GridCard";
 
-import "../../Pages/pages.scss";
+import "../../Pages/styles.scss";
 
 function AdvGrid(props) {
   return (

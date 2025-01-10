@@ -42,6 +42,7 @@
 
   .hero-logos {
     @extend .flex-centered;
+    flex-wrap: wrap;
     gap: 1rem;
     justify-content: space-evenly;
     margin: 0 20%;

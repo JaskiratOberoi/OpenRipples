@@ -1,0 +1,72 @@
+
+
+
+@media only screen and (max-width: 800px) {
+
+    *, body, html {
+        font-size: 0.8rem;
+    }
+
+    .packages-cards {
+       flex-direction: column !important;
+
+       .packages-grid {
+        width: 80% !important;
+        margin-top: 1rem;
+       }
+    }
+
+
+    .adv-grid {
+        max-width: 80%;
+        align-items: start;
+        margin: 2rem 0;
+      
+        .grid-card {
+          width: 80%;
+          align-items: center;
+      
+          img {
+            max-width: 80%;
+            padding: 0;
+          }
+      
+          .grid-card--title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            padding-bottom: 0.5rem;
+          }
+
+          .grid-card--content {
+            width: 100%;
+          }
+      
+
+        }
+      }
+
+
+
+
+      .mkt-cmp {
+
+        img {
+          max-width: 90%;
+        }
+      }
+      
+      .text--title {
+        font-size: 2.5rem !important;
+        line-height: 2.5rem !important;
+      }
+
+      .cta-footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        button {
+            width: 80% !important;
+        }
+      }
+}

@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a71f843.css",
-    "main.js": "/static/js/main.bd1c6ede.js",
-    "static/media/packages.svg": "/static/media/packages.bee3a35b65454ff81c065d04a9a7a519.svg",
+    "main.css": "/static/css/main.325abfb9.css",
+    "main.js": "/static/js/main.88b1014b.js",
     "static/media/team.svg": "/static/media/team.5418d0b176b5dfb08a7c70082194595f.svg",
+    "static/media/expertteam.svg": "/static/media/expertteam.fba39c17f51bbfc1c4c760669c31e92a.svg",
     "static/media/market-comparison-card.svg": "/static/media/market-comparison-card.5177f25b2f76357e8f55cfe872ec6f1e.svg",
     "static/media/team.gif": "/static/media/team.c867ce61f56123a7608a.gif",
+    "static/media/expertux.svg": "/static/media/expertux.edecab85d477d6ee61915465ab0d074c.svg",
+    "static/media/expertdev.svg": "/static/media/expertdev.bbfcf1db4e78c936a0c4c5fb4d13b1e0.svg",
+    "static/media/expertmvp.svg": "/static/media/expertmvp.97af3876f125c5a805978c7601bd138c.svg",
     "static/media/bank.gif": "/static/media/bank.7117bc462b327d27a9f7.gif",
     "static/media/exit.gif": "/static/media/exit.a6702b5239d6747afefb.gif",
     "static/media/meter.gif": "/static/media/meter.43bef35c1e37e1b62cf8.gif",
     "static/media/how-it-works.svg": "/static/media/how-it-works.ba705ec639e424f3f0881de39274d2e7.svg",
-    "static/media/sbs.svg": "/static/media/sbs.cd4fd99ef83f4ac5e4b0c4eed9f3512e.svg",
-    "static/media/JP Morgan Chase Logo 1.svg": "/static/media/JP Morgan Chase Logo 1.4978f6ee1f712e166ae3a63ff670c446.svg",
-    "static/media/hero-image.svg": "/static/media/hero-image.43a7d19c4bf31e02f20d49ea4df73fad.svg",
-    "static/media/Dell Logo.svg": "/static/media/Dell Logo.335b08d583357d2de398712078bb88eb.svg",
-    "static/media/OpenRipples.svg": "/static/media/OpenRipples.fcf0345b24bf75197c4fa2a450c99cb3.svg",
+    "static/media/sbs.svg": "/static/media/sbs.7f86c8eda6808be3451423d22d9f84b0.svg",
+    "static/media/JP Morgan Chase Logo 1.svg": "/static/media/JP Morgan Chase Logo 1.74bdddadf4397bae98cc772fbc5652cf.svg",
+    "static/media/hero-image.svg": "/static/media/hero-image.ea885bafdea7c7520f97e463ba26e83d.svg",
+    "static/media/Dell Logo.svg": "/static/media/Dell Logo.dc8f42009e47917bd9e433f7a793b490.svg",
+    "static/media/OpenRipples.svg": "/static/media/OpenRipples.3a61c190bd49b3b6e90e1766d7413c90.svg",
     "static/media/amazon long.svg": "/static/media/amazon long.d61de2864e3ca7e6def537283132fec4.svg",
     "static/media/ycombinator-ar21.svg": "/static/media/ycombinator-ar21.237b5c69421fdf3c213ab26a40489381.svg",
     "index.html": "/index.html",
     "static/media/ust-global-vector-logo-2022.svg": "/static/media/ust-global-vector-logo-2022.829ed68043f4eb26e95871e1f5a755f2.svg",
-    "main.3a71f843.css.map": "/static/css/main.3a71f843.css.map",
-    "main.bd1c6ede.js.map": "/static/js/main.bd1c6ede.js.map"
+    "main.325abfb9.css.map": "/static/css/main.325abfb9.css.map",
+    "main.88b1014b.js.map": "/static/js/main.88b1014b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a71f843.css",
-    "static/js/main.bd1c6ede.js"
+    "static/css/main.325abfb9.css",
+    "static/js/main.88b1014b.js"
   ]
 }

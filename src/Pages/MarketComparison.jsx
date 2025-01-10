@@ -1,10 +1,10 @@
-import React from "react";
+  import React from "react";
 import Title from "../components/Title/Title";
 
 import mktCmp from "../assets/market-comparison-card.svg";
 import sbs from "../assets/sbs.svg";
 
-import "./pages.scss";
+import "./styles.scss";
 import AdvGrid from "../components/AdvGrid/AdvGrid";
 
 import { advGridContent } from "../data/advantageGrid";

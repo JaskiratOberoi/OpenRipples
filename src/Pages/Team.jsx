@@ -3,7 +3,7 @@ import Title from "../components/Title/Title";
 
 import team from "../assets/team.svg";
 
-import "./pages.scss";
+import "./styles.scss";
 // import "../styles/accordion.scss";
 
 import { Accordion, AccordionItem } from "@szhsin/react-accordion";
